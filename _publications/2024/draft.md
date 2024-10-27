@@ -8,7 +8,7 @@ pub_date:       "2024"
 
 abstract: >-
   XXXXXXXXX
-cover:          assets/images/covers/2024-csf.png
+cover:          assets/images/covers/draft.png
 authors:
   - Jingyi Zhao
 links:
