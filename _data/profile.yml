@@ -3,20 +3,19 @@ secondary_name: ""
 navbar_name: "Jingyi Zhao"
 
 positions:
-  - '<span class="no-break"><img src="assets/images/badges/swufe.jpg" alt="Southwestern University of Finance and Economics" class="inline-badge"/></span> M.S., Southwestern University of Finance and Economics (Now)'
-  - '<span class="no-break"><img src="assets/images/badges/swu.jpg" alt="Guangxi University" class="inline-badge"/></span> B.S., Southwest University (2023)'
+  - '<span class="no-break"><img src="assets/images/badges/swufe.png" alt="Southwestern University of Finance and Economics" class="inline-badge"/></span> M.S., Southwestern University of Finance and Economics (Now)'
+  - '<span class="no-break"><img src="assets/images/badges/gxu.jpg" alt="Guangxi University" class="inline-badge"/></span> B.S., Guangxi University (2023)'
 
 email: "jingyizhaostu@163.com"
 github: zjyfin
 
 
 short_bio: >-
-  <p>Greetings, I am currently pursuing a Master's degree at the Southwestern University of Finance and Economics, with an anticipated graduation date of June 2026. My research focuses on the fields of <b>time series analysis, statistical physics, information theory, and evidence theory</b>. I am deeply passionate about exploring the intersections within these disciplines and addressing the complex challenges they present.</p>
+  <p>Greetings! I am currently pursuing a Master’s degree in Behavioral Finance at Southwestern University of Finance and Economics. My research centers on <b>behavioral finance, information disclosure and fintech</b>.</p> 
 
-  <p><b>I am actively seeking a fully-funded Ph.D. position in <i>Finance</i></b>, where I hope to join a vibrant research community and collaborate with like-minded scholars in pushing the boundaries of scientific knowledge. If my research interests align with yours, or if you see potential for a research collaboration, please feel free to reach out to me via email or WeChat (please indicate the purpose of your contact when messaging).</p>
-
-  <p>I look forward to connecting with you and am excited about the prospect of collectively advancing the field of science.</p>
-
+  <p><b>I am actively seeking a fully funded Ph.D. position in <i>Finance</i></b> to engage with a vibrant research community and collaborate in advancing knowledge in these areas. If my interests align with yours, feel free to reach out via email.</p> 
+  
+  <p>I look forward to connecting and working together to push the boundaries of finance research.</p>
 show_portrait: true
 portrait_url: assets/images/photos/zjy.jpg
 portrait_caption: >-
@@ -24,18 +23,18 @@ portrait_caption: >-
 
 education:
 - name: Southwestern University of Finance and Economics
-  logo: assets/images/badges/swufe.jpg
+  logo: assets/images/badges/swufe.png
   position: M.S. in Behavioral Finance
   date: Sep. 2023 - Now
 
 - name: Guangxi University
-  logo: assets/images/badges/swu.jpg
+  logo: assets/images/badges/gxu.jpg
   position: B.S. in Mathematics Finance
   date: Sep. 2019 - Jul. 2023
 
 experience:
 - name: Guangfa Security
-  logo: assets/images/badges/cqu.jpg
+  logo: assets/images/badges/guangfa.png
   position: Intern
   date: Feb. 2023 - June. 2023
 
