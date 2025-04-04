@@ -1,7 +1,8 @@
 {% assign item = include.item %}
 <div class="d-none d-md-block">
     <div class="row no-gutters border-bottom border-gray">
-        <div class="col-md-12 col-xl-12 p-3 pl-md-0">
+        <div class="col-md-1 col-xl-12 p-3 pl-md-0"></div>
+        <div class="col-md-11 col-xl-12 p-3 pl-md-0">
             <h5 class="mt-0 mb-1 font-weight-normal">{{ item.title }}</h5>
             <p class="mt-0 mb-0 small">{% include widgets/author_list.html authors=item.authors %}</p>
             <p class="mt-0 mb-0 small">{{item.pub_pre}}<i>{{ item.pub }}</i>{{ item.pub_post }} {{ item.pub_date }} {{ item.pub_last }}</p>
