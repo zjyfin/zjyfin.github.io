@@ -1,18 +1,15 @@
 ---
-title:          XXXXXXXXX
-date:           2024-05-14 00:10:00 +0800
-selected:       true
-pub:            "XXXXXXX"
-pub_last:       ' <span class="badge badge-pill badge-info">中科院升级版1区</span>'
-pub_date:       "2024"
+title:          title
+date:           2025-01-01 00:00:00 +0800
+pub:            "journal"
+pub_last:       ''
+pub_date:       "2025"
 
 abstract: >-
-  XXXXXXXXX
+  abstract
 cover:          assets/images/covers/draft.png
 authors:
   - Jingyi Zhao
 links:
-  Paper: https://zjyfin.github.io/
-  PDF: https://zjyfin.github.io/
-  Code: https://zjyfin.github.io/
+  # Paper: https://zjyfin.github.io/
 ---

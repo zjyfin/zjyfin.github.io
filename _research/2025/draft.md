@@ -7,7 +7,6 @@ pub_date:       "2025"
 
 abstract: >-
   abstract
-cover:          assets/images/covers/draft.png
 authors:
   - Jingyi Zhao
 links:
