@@ -8,9 +8,9 @@ num_selected: 10
 
 {% include widgets/experience_card.html %}
 
-{% assign pubs = site.publications | sort: "date" | reverse | where: "selected", true %}
+{% assign pubs = site.research | sort: "date" | reverse | where: "selected", true %}
 {% 
     include widgets/publication_card.html 
-    publications=pubs limit=page.num_selected 
-    title='<i class="fas fa-star"></i> Selected Publications'
+    research=pubs limit=page.num_selected 
+    title='<i class="fas fa-star"></i> Selected Research'
 %}
